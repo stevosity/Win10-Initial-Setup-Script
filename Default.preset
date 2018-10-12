@@ -93,10 +93,10 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
-ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
-SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
+# ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
+# SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
-ShowTrayIcons                   # HideTrayIcons
+# ShowTrayIcons                   # HideTrayIcons
 DisableSearchAppInStore         # EnableSearchAppInStore
 # DisableNewAppPrompt             # EnableNewAppPrompt
 HideRecentlyAddedApps         # ShowRecentlyAddedApps
@@ -124,11 +124,11 @@ SetExplorerThisPC               # SetExplorerQuickAccess
 HideQuickAccess                 # ShowQuickAccess
 ShowThisPCOnDesktop             # HideThisPCFromDesktop
 # ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
-HideDesktopFromThisPC           # ShowDesktopInThisPC
+# HideDesktopFromThisPC           # ShowDesktopInThisPC
 # HideDesktopFromExplorer       # ShowDesktopInExplorer
-HideDocumentsFromThisPC         # ShowDocumentsInThisPC
+# HideDocumentsFromThisPC         # ShowDocumentsInThisPC
 # HideDocumentsFromExplorer     # ShowDocumentsInExplorer
-HideDownloadsFromThisPC         # ShowDownloadsInThisPC
+# HideDownloadsFromThisPC         # ShowDownloadsInThisPC
 # HideDownloadsFromExplorer     # ShowDownloadsInExplorer
 HideMusicFromThisPC             # ShowMusicInThisPC
 # HideMusicFromExplorer         # ShowMusicInExplorer
